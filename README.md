@@ -16,7 +16,7 @@ Arduino/Contents/Resources/Java/libraries
 
 5. Now launch Arduino 1.0.6, open NEWMARLINJULIAV2/NEWMARLINJULIAV2.ino, select following settings and hit compile.
 
-Board: [BootloaderCDC]Teensylu/Printrboard
+Board: [BootloaderCDC]Teensylu/Printrboard<br>
 Programmer: USBtinyISP
 
 Enjoy!
