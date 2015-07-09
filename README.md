@@ -8,13 +8,13 @@ Installation
 
 2. Download and install Teensyduino v1.24 from [here](https://www.pjrc.com/teensy/td_download.html). Again, choose OS you are working on.
 
-3. Copy at90usb1286 folder and paste them in hardware folder of your Arduino installation directory. If you are using Mac OS X, you can find the folder at the location below:
+3. Copy at90usb1286 folder and paste it in hardware folder of your Arduino installation directory. If you are using Mac OS X, you can find the folder at the location below:
 Arduino/Contents/Resources/Java/hardware
 
-4. Copy LiquidTWI2 folder and paste it in libraries folder in Arduino installation directory. Mac OS X users go find it here:
+4. Copy LiquidTWI2 folder and paste it in libraries folder in Arduino installation directory. Mac OS X users can find it here:
 Arduino/Contents/Resources/Java/libraries
 
-5. Now launch Arduino 1.0.6, open NEWMARLINJULIAV2 and hit compile.
+5. Now launch Arduino 1.0.6, open NEWMARLINJULIAV2/NEWMARLINJULIAV2.ino and hit compile.
 
 Enjoy!
 
