@@ -14,7 +14,10 @@ Arduino/Contents/Resources/Java/hardware
 4. Copy LiquidTWI2 folder and paste it in libraries folder in Arduino installation directory. Mac OS X users can find it here:
 Arduino/Contents/Resources/Java/libraries
 
-5. Now launch Arduino 1.0.6, open NEWMARLINJULIAV2/NEWMARLINJULIAV2.ino and hit compile.
+5. Now launch Arduino 1.0.6, open NEWMARLINJULIAV2/NEWMARLINJULIAV2.ino, select following settings and hit compile.
+
+Board: [BootloaderCDC]Teensylu/Printrboard
+Programmer: USBtinyISP
 
 Enjoy!
 
